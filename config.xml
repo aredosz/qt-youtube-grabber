@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <video>
+        <info_url>http://www.youtube.com/get_video_info?video_id=%s&amp;el=embedded&amp;ps=default&amp;eurl=&amp;hl=en_US</info_url>
+    </video>
+    <tmp_dir>./tmp/</tmp_dir>
+</config>
